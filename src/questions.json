@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Quien fue el primer emperador romano?",
+    "answer": "augusto",
+    "prize": 10
+  },
+  {
+    "question": "En que ano llego el hombre a la Luna?",
+    "answer": "1969",
+    "prize": 20
+  },
+  {
+    "question": "Cual es el oceano mas grande del mundo?",
+    "answer": "oceanopacifico",
+    "prize": 10
+  },
+  {
+    "question": "Que pintor holandes se corto la oreja?",
+    "answer": "vangogh",
+    "prize": 10
+  },
+  {
+    "question": "Cual es la moneda oficial de Japon?",
+    "answer": "yen",
+    "prize": 10
+  },
+  {
+    "question": "En que ano a.C. murio Julio Cesar?",
+    "answer": "44",
+    "prize": 50
+  },
+  {
+    "question": "Que famosa frase se atribuye a Julio Cesar al cruzar el rio Rubicon?",
+    "answer": "aleaiactaest",
+    "prize": 10
+  },
+  {
+    "question": "Cual es la capital de Sri Lanka?",
+    "answer": "srijayawardenepurakotte",
+    "prize": 30
+  },
+  {
+    "question": "Como se llama la famosa ruina con rocas antiguas considerada patrimonio de la humanidad en Sri Lanka?",
+    "answer": "sigiriya",
+    "prize": 50
+  },
+  {
+    "question": "Cual es el antiguo nombre de Sri Lanka hasta 1972?",
+    "answer": "ceilan",
+    "prize": 50
+  },
+  {
+    "question": "Escritor gallego nacido en Celanova",
+    "answer": "celsoemilioferreiro",
+    "prize": 100
+  },
+  {
+    "question": "En que siglo se fundo el monasterio de Celanova?",
+    "answer": "siglox",
+    "prize": 30
+  },
+  {
+    "question": "Como se llama la prueba que mide la frecuencia cardiaca fetal y las contracciones uterinas?",
+    "answer": "cardiotocografia",
+    "prize": 50
+  },
+  {
+    "question": "Cual es el comando para tener en local la informacion de un repositorio ya descargado de GitHub?",
+    "answer": "gitpull",
+    "prize": 30
+  },
+  {
+    "question": "Cual es la maxima cilindrada que ha existido en una moto cc?",
+    "answer": "2500",
+    "prize": 70
+  },
+  {
+    "question": "Cual es el unico hueso del cuerpo no conectado a ningun otro? Nombre oficial",
+    "answer": "hioides",
+    "prize": 70
+  },
+  {
+    "question": "En honor a que emperador se construyo el teatro romano de Cartagena?",
+    "answer": "augusto",
+    "prize": 25
+  },
+  {
+    "question": "Quienes son los cantantes de la cancion Dardos?",
+    "answer": "romeosantosyprinceroyce",
+    "prize": 50
+  },
+  {
+    "question": "Cual es el nombre artistico de William Bruce Rose Jr.?",
+    "answer": "axlrose",
+    "prize": 100
+  },
+  {
+    "question": "Cual es el nombre real de Bad Bunny?",
+    "answer": "benitoantoniomartinezocasio",
+    "prize": 125
+  },
+  {
+    "question": "Cual es el porcentaje de composicion de O2 en nuestra atmosfera?",
+    "answer": "21",
+    "prize": 30
+  },
+  {
+    "question": "Suponiendo una tierra NO PLANA, que distancia es capaz de ver el horizonte una persona que mida 1,7 m? En km, redondeado a 0,5 km",
+    "answer": "45",
+    "prize": 100
+  },
+  {
+    "question": "Cuantos barcos de epoca fenicia se encontraron en la isla de Mazarron?",
+    "answer": "2",
+    "prize": 100
+  },
+  {
+    "question": "Cual es el precio del oro por kg hoy, redondeado a 5 mil?",
+    "answer": "130000",
+    "prize": 50
+  },
+  {
+    "question": "En que ano se invento el motor de vapor?",
+    "answer": "1712",
+    "prize": 50
+  },
+  {
+    "question": "Que animal de la familia de los Delphinidae es el mas grande?",
+    "answer": "orca",
+    "prize": 50
+  },
+  {
+    "question": "Para josote principalmente: Completa la frase Creo en Dios padre _____, creador...",
+    "answer": "todopoderoso",
+    "prize": 10
+  },
+  {
+    "question": "Cual es el animal nacional de Escocia?",
+    "answer": "unicornio",
+    "prize": 30
+  },
+  {
+    "question": "En que siglo comenzo a fundarse Edimburgo?",
+    "answer": "siglovii",
+    "prize": 50
+  },
+  {
+    "question": "En que ano fue el ultimo viaje tripulado a la Luna antes del mas reciente?",
+    "answer": "1972",
+    "prize": 50
+  },
+  {
+    "question": "Quien es conocido como el Rey del Pop?",
+    "answer": "michaeljackson",
+    "prize": 50
+  },
+  {
+    "question": "Que banda interpreto Bohemian Rhapsody?",
+    "answer": "queen",
+    "prize": 50
+  },
+  {
+    "question": "Quien pinto La noche estrellada?",
+    "answer": "vincentvangogh",
+    "prize": 50
+  },
+  {
+    "question": "Que artista esculpio El David?",
+    "answer": "miguelangel",
+    "prize": 50
+  },
+  {
+    "question": "En que ano cayo el Imperio Romano de Occidente?",
+    "answer": "476",
+    "prize": 50
+  },
+  {
+    "question": "Quien descubrio America en 1492?",
+    "answer": "cristobalcolon",
+    "prize": 50
+  },
+  {
+    "question": "Cual es el rio mas largo del mundo?",
+    "answer": "amazonas",
+    "prize": 50
+  },
+  {
+    "question": "Cual es el pais mas grande del mundo?",
+    "answer": "rusia",
+    "prize": 50
+  },
+  {
+    "question": "Que pais ha ganado mas Copas del Mundo de futbol?",
+    "answer": "brasil",
+    "prize": 50
+  },
+  {
+    "question": "En que deporte compite Rafa Nadal?",
+    "answer": "tenis",
+    "prize": 50
+  }
+]
